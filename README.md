@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 This is my personal website: (portofolio)[https://yousef1alsultan.github.io/portofolio/];
+- 📫 This is my personal website: [portofolio](https://yousef1alsultan.github.io/portofolio/);
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
 
